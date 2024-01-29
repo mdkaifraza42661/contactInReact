@@ -25,8 +25,8 @@ function ContactUs() {
                 <h1 className=' font-extrabold  text-5xl pt-7'>CONTACT US</h1>
                 <p className=' font-semibold text-gray-500 pt-6 pb-8    '>LET’S CONNECT: WE’RE HERE TO HELP, AND WE’D LOVE TO HEAR FROM YOU! WHETHER YOU HAVE A QUESTION, COMMENT, OR JUST WANT TO CHAT , YOU CAN REACH OUT TO US THROUGH THE CONTACT FORM OF THIS PAGE, OR BY PHONE, EMAIL, OR SOCIAL MEDIA. </p>
                 <div>
-                    <button>VIA SUPPORT CHAT</button>
-                    <button>VIA CALL</button>
+                    <button>📰VIA SUPPORT CHAT</button>
+                    <button> 📞VIA CALL</button>
                 </div>
                 <div></div>
             </div>
